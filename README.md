@@ -6,4 +6,4 @@ Link to paper: https://drive.google.com/file/d/1YNbHQlkYzDBqpbxZx1hOsFmaBqcRTQBo
 
 Additional note: the codescript says 'invalid'; this is because it does not render in Github, but it can be easily downloaded and viewed.
 
-Thank you to my editors, Aaron Kim, Mathias Berg, and Zaf Nasioutzik.
+Thank you to my editors for your recent edits: Aaron Kim, Mathias Berg, and Zaf Nasioutzik.
