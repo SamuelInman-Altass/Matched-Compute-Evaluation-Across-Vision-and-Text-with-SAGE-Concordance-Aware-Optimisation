@@ -1,6 +1,6 @@
 # Matched-Compute-Evaluation-Across-Vision-and-Text-with-SAGE-Concordance-Aware-Optimisation
 
-Link to paper: https://drive.google.com/file/d/14u14jejDa9H9v1EDmjUYJ_xHRtO1OR4E/view?usp=sharing
+Link to paper: https://drive.google.com/file/d/1YNbHQlkYzDBqpbxZx1hOsFmaBqcRTQBo/view
 
 © 2026 Samuel Inman-Altass. All rights reserved.
 
